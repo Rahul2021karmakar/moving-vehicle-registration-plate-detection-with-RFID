@@ -1,0 +1,1 @@
+Moving vehicle registration plate detection and unauthorized vehicle detection in secure premisses
